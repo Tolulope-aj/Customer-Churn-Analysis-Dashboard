@@ -66,3 +66,10 @@ It contains the following key attributes:
 
 ---
 
+## Dashboard Preview
+
+<p align="center">
+  <img src="images/Customer Churn Analysis.png" alt="Dashboard Preview" width="750">
+  <br>
+  <em>Excel dashboard showing customer churn analysis</em>
+</p>
