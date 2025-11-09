@@ -73,3 +73,13 @@ It contains the following key attributes:
   <br>
   <em>Excel dashboard showing customer churn analysis</em>
 </p>
+
+---
+
+## Tools and Technologies
+- **Excel:** Power Query, Pivot Tables, Pivot Charts, Slicers  
+- **Data Cleaning & Transformation:** Power Query  
+- **Visualization:** Excel Dashboard  
+- **Dataset Source:** https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-customer-churn?resource=download  
+
+---
