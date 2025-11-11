@@ -28,7 +28,7 @@ This project demonstrates practical experience in **data cleaning, analysis, vis
 The aim of this project is to answer the following questions:  
 - **Who are the customers?**  
 - **Where is churn happening?**  
-- **When and why are customers leaving?**  
+- **When and why are customers leaving?** 
 - **What is the impact of churn on the business?**  
 
 Other objectives include:  
@@ -57,10 +57,9 @@ It contains the following key attributes:
 
 ## Key Features
 - **Map Chart:** Visualizes churn distribution across states  
-- **KPI Cards:** Show churn rate, retention rate, total customers, and churned customers  
+- **KPI Cards:** Show churn rate, retention rate, total customers, total revenue lost and churned customers  
 - **Bar & Pie Charts:** Compare churn by gender, device, and subscription plan  
-- **Trend Line:** Tracks churn movement over time  
-- **Dynamic Slicers:** Allow users to filter the dashboard interactively by **date, device type, customer age group, and tenure group**, enabling quick and flexible insights 
+- **Dynamic Slicers:** Allow users to filter the dashboard interactively by **months, device type, customer age group, and tenure group**, enabling quick and flexible insights 
 
 ---
 
